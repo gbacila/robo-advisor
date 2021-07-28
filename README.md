@@ -28,7 +28,13 @@ Install the packages from requirements.txt:
 ```
 pip install -r requirements.txt
 ```
+Register in AlphaVantage to get your unique API using [this link](https://www.alphavantage.co/support/#api-key)
 
+Create a local .env file and add your unique API key assigning it to the variable ALPHAVANTAGE_API_KEY like in the example below (abc123 is the example key):
+
+```
+ALPHAVANTAGE_API_KEY="abc123"
+```
 ## Usage
 
 Customize the game by updating the user name in .env file 
