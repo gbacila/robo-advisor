@@ -37,28 +37,10 @@ ALPHAVANTAGE_API_KEY="abc123"
 ```
 ## Usage
 
-Customize the game by updating the user name in .env file 
-
-Make sure to keep .gitignore file to secure personal data
-
-Play the game using the command line:
+Launch the program by navigating to its folder and using the command line:
 ```
 python app/robo_advisor.py
 ```
+Enter one or several symbols you want to get recommendations for and see the results
 
-IMPORTANT: Dependint on your license, you may have limitations on how many tickers and how often you can pull
-
-## Setup
-
-### Repo Setup
-
-### Environment Setup
-
-## Basic Requirements
-
-### Repository Requirements
-
-### Security Requirements
-
-### Functionality Requirements
-
+IMPORTANT: Dependint on your license, you may have limitations on how many tickers and how often you can pull. If you exceed your license's limitations, the program may return an error
