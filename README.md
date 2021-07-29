@@ -46,6 +46,8 @@ Play the game using the command line:
 python app/robo_advisor.py
 ```
 
+IMPORTANT: Dependint on your license, you may have limitations on how many tickers and how often you can pull
+
 ## Setup
 
 ### Repo Setup
