@@ -43,4 +43,4 @@ python app/robo_advisor.py
 ```
 Enter one or several symbols you want to get recommendations for and see the results
 
-IMPORTANT: Dependint on your license, you may have limitations on how many tickers and how often you can pull. If you exceed your license's limitations, the program may return an error
+IMPORTANT: Depending on your license, you may have limitations on how many tickers and how often you can pull. If you exceed your license's limitations, the program may return an error
